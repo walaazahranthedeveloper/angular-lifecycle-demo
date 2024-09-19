@@ -29,9 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Components are core to Angular, representing both the view and logic of the UI.
 
- # Component Decorator: Learn how to use the @Component decorator, its metadata like selector, templateUrl, styleUrls, etc.
-  # Component Lifecycle Hooks: Familiarize yourself with lifecycle hooks such as ngOnInit(), ngOnChanges(), ngOnDestroy().
-# Input and Output: Learn how components communicate using @Input() for parent-to-child communication and @Output() for child-to-parent.
+ ### Component Decorator: Learn how to use the @Component decorator, its metadata like selector, templateUrl, styleUrls, etc.
+  ### Component Lifecycle Hooks: Familiarize yourself with lifecycle hooks such as ngOnInit(), ngOnChanges(), ngOnDestroy().
+### Input and Output: Learn how components communicate using @Input() for parent-to-child communication and @Output() for child-to-parent.
 
 ## Demo
 
